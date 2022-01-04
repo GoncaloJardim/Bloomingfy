@@ -1,0 +1,7 @@
+Hi [username],
+
+Thank you for your registration.
+
+Best regards,
+[from]
+[url]
